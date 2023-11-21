@@ -1,5 +1,4 @@
-{
-  "videos": [
+[
     {
       "description": "The Smoking Tire heads out to Adams Motorsports Park in Riverside, CA to test the most requested car of 2010, the Volkswagen GTI. Will it beat the Mazdaspeed3's standard-setting lap time? Watch and see...",
       "sources": [
@@ -27,5 +26,4 @@
       "thumb": "images/WhatCarCanYouGetForAGrand.jpg",
       "title": "What care can you get for a grand?"
     }
-  ]
-}
+]
